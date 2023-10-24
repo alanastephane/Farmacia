@@ -1,0 +1,85 @@
+.body{
+    background-color: rgb(250, 32, 32);
+}
+    
+    .bloco{
+    background-color: #FFF5ED;
+    min-width: 900px;
+    max-width: 900px;
+    min-height:1500px ;
+    max-height: 3000px;}
+    
+    .lista{
+    font-family: 'montserrat',monospace;
+    font-style: normal;
+    font-weight: 50px;
+    font-size: 45px;
+    line-height: 50px;
+    color: #000000;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);}
+    
+    .dados{
+    font-family: 'montserrat',monospace;
+    font-style: normal;
+    font-weight: 50px;
+    font-size: 25px;
+    line-height: 50px;
+    color: #000000;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);}
+    
+    
+    .barras{
+    width: 300px;
+    height: 40px;
+    background: rgb(255, 255, 255);
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 50px;
+    font-family: 'montserrat',monospace;
+    font-style: normal;
+    font-weight: 50px;
+    font-size: 20px;
+    line-height: 50px;
+    color: #000000;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
+    text-align: center;
+    border: 3px solid rgba(220, 207, 237, 1);}
+    
+    
+    .button{
+        font-family: 'montserrat',monospace;
+        font-style: normal;
+        font-weight: 35px;
+        font-size: 25px;
+        line-height: 35px; 
+        color: white;
+        background-color: rgb(234, 44, 44); 
+        border-radius: 35px;
+        border: 3px solid rgba(220, 207, 237, 1);
+        box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);}
+    
+        .informe{
+            font-family: 'montserrat',monospace;
+            font-style: normal;
+            font-weight: 50px;
+            font-size: 25px;
+            line-height: 50px;
+            color: #4b4b4b;
+            text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+            margin-left: 135px;}
+    
+            .lnr-eye {
+                cursor: pointer;
+    
+            }
+
+            .registro{
+                font-family: 'montserrat',monospace;
+                font-style: normal;
+                font-weight: 20px;
+                font-size: 35px;
+                line-height: 20px;
+                color: #000000;
+                text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);}
+                
+            
+    
